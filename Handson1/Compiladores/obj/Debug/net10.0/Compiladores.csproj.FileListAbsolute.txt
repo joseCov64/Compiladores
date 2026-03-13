@@ -1,0 +1,14 @@
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\bin\Debug\net10.0\Compiladores.exe
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\bin\Debug\net10.0\Compiladores.deps.json
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\bin\Debug\net10.0\Compiladores.runtimeconfig.json
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\bin\Debug\net10.0\Compiladores.dll
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\bin\Debug\net10.0\Compiladores.pdb
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\obj\Debug\net10.0\Compiladores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\obj\Debug\net10.0\Compiladores.AssemblyInfoInputs.cache
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\obj\Debug\net10.0\Compiladores.AssemblyInfo.cs
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\obj\Debug\net10.0\Compiladores.csproj.CoreCompileInputs.cache
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\obj\Debug\net10.0\Compiladores.dll
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\obj\Debug\net10.0\refint\Compiladores.dll
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\obj\Debug\net10.0\Compiladores.pdb
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\obj\Debug\net10.0\Compiladores.genruntimeconfig.cache
+D:\Udg\Noveno Semestre\CompiProjects\Compiladores\obj\Debug\net10.0\ref\Compiladores.dll
